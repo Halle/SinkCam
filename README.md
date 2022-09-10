@@ -5,6 +5,6 @@ There are three major kinds of CMIO Camera Extensions: **software camera**, **cr
 
 I wanted to thank [Laurent Denoue](https://github.com/ldenoue) again for providing a [reference example](https://github.com/ldenoue/cameraextension) of this type of `CMIOExtensionStreamSource` and how it can be addressed by the app.
 
-If you want to give it a try, it is necessary for you to change all references to my team ID and organization ID to yours (this occurs in a few places) or it will not be possible for you to codesign and install. This can only be run on a Ventura beta, and if you want to use the continuity camera, you also need iOS 16 on your phone.
+If you want to give it a try, it is necessary for you to change all references to my team ID and organization ID to yours (this occurs in a few places) or it will not be possible for you to codesign and install. This can only be run on a Ventura beta or later (at the time of this writing, there was no general release of Ventura yet), and if you want to use the continuity camera, you also need iOS 16 on your phone.
 
 This is part 3.5 😅 of my three-part series on CMIO Camera Extensions on [The Offcuts](https://www.theoffcuts.org)
